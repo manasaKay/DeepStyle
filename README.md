@@ -12,4 +12,4 @@ The corresponding content images, style images and the trained models are kept i
 Apart from this, there are multiple other implementations in the Realtime Style Transfer directory that can run the variations mentioned in the report. <br> <br>
 
 ### LINK TO THE REPORT
->> PLease check the report.pdf uploaded for the report.
+>> Please check the report.pdf uploaded for the report.
