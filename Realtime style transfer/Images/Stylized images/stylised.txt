@@ -1,1 +1,4 @@
 Here we provide the output images we got using different style images. We have also added the output for different initialisations.
+
+The images are in the format:
+normalisation_styleimage_contentimage_stylised/not.jpg
