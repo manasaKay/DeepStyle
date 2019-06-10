@@ -1,1 +1,2 @@
 The trained models for the v6619 net for instance and batch norm for different style images are stored in the form of .pth file 
+One model for resnet is also added
